@@ -1,0 +1,10 @@
+@import "../../../stylesheet/global/global-variables.scss";
+
+.loading-component {
+  margin-top: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  color: #0d243d;
+}
